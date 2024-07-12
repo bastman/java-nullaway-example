@@ -8,6 +8,9 @@ see:
 - https://github.com/eugenp/tutorials/blob/master/libraries-3/src/main/java/com/baeldung/nullaway/NullAwayExample.java
 
 
+you may also like "spotbugs in action" , e.g.: https://github.com/alibaba/java-dns-cache-manipulator/blob/main/library/src/main/java/com/alibaba/dcm/DnsCacheManipulator.java#L32
+
+
 ```
 run the main class to see compiler errors
 
