@@ -7,6 +7,7 @@ see:
 - https://www.baeldung.com/java-nullaway
 - https://github.com/eugenp/tutorials/blob/master/libraries-3/src/main/java/com/baeldung/nullaway/NullAwayExample.java
 
+
 ```
 run the main class to see compiler errors
 
