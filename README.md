@@ -10,6 +10,8 @@ see:
 
 you may also like "spotbugs in action" , e.g.: https://github.com/alibaba/java-dns-cache-manipulator/blob/main/library/src/main/java/com/alibaba/dcm/DnsCacheManipulator.java#L32
 
+checkout: jspecify and current issues with nullable annotations and frameworks: https://www.reddit.com/r/java/comments/1e5sisv/jspecify_100_released_toolindependent_nullness/
+
 
 ```
 run the main class to see compiler errors
